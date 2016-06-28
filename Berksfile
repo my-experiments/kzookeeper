@@ -6,4 +6,5 @@ metadata
  
 cookbook 'kagent', github: "karamelchef/kagent-chef", branch: "master"
 cookbook 'java', '~> 1.39.0'
+cookbook 'apt', '~> 2.6.0'
 
